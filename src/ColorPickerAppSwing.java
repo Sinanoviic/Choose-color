@@ -9,6 +9,14 @@ import java.time.format.DateTimeFormatter;
 import java.util.Timer;
 import java.util.TimerTask;
 
+
+
+
+
+
+
+
+trey
 public class ColorPickerAppSwing {
     private JFrame mainFrame;
     private JFrame settingsFrame;
