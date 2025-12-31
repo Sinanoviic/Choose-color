@@ -1,4 +1,4 @@
-import javax.swing.*;
+#import javax.swing.*;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
@@ -25,6 +25,14 @@ public class ColorPickerAppSwing {
     private Color previousColor = Color.WHITE;
     private Timer timer;
     private int intervalSeconds = 1;
+
+
+
+
+
+
+
+testttt
     private JButton chooseColorButton;
     private JButton startButton;
     private JButton stopButton;
