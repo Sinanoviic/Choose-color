@@ -75,6 +75,13 @@ public class ColorPickerAppSwing {
             }
         });
 
+
+
+
+
+
+
+
         JPanel panel = new JPanel(new GridLayout(0, 1));
 
         JPanel chooseColorPanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
