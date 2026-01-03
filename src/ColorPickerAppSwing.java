@@ -9,14 +9,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.Timer;
 import java.util.TimerTask;
 
-
-
-
-
-
-
-
-trey
 public class ColorPickerAppSwing {
     private JFrame mainFrame;
     private JFrame settingsFrame;
@@ -25,14 +17,6 @@ public class ColorPickerAppSwing {
     private Color previousColor = Color.WHITE;
     private Timer timer;
     private int intervalSeconds = 1;
-
-
-
-
-
-
-
-testttt
     private JButton chooseColorButton;
     private JButton startButton;
     private JButton stopButton;
