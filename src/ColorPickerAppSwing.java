@@ -26,7 +26,6 @@ public class ColorPickerAppSwing {
     private JTextField secondsField;
     private JComboBox<Integer> intervalComboBox;
     private JPanel colorPanel;
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             ColorPickerAppSwing app = new ColorPickerAppSwing();
