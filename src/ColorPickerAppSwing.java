@@ -33,7 +33,6 @@ public class ColorPickerAppSwing {
             app.createAndShowMainFrame();
         });
     }
-
     private void createAndShowMainFrame() {
         mainFrame = new JFrame("Main Frame");
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
