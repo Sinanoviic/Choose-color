@@ -104,7 +104,6 @@ public class ColorPickerAppSwing {
         enterTimePanel.add(new JLabel("Time (HH:mm):"));
         enterTimePanel.add(timeField);
         panel.add(enterTimePanel);
-
         ButtonGroup group = new ButtonGroup();
         group.add(countdownRadio);
         group.add(enterTimeRadio);
