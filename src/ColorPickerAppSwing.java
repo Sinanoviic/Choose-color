@@ -96,7 +96,6 @@ public class ColorPickerAppSwing {
         countdownPanel.add(new JLabel("Seconds:"));
         countdownPanel.add(secondsField);
         panel.add(countdownPanel);
-
         JPanel enterTimePanel = new JPanel(new FlowLayout(FlowLayout.LEADING));
         enterTimeRadio = new JRadioButton("Enter Time");
         enterTimePanel.add(enterTimeRadio);
